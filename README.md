@@ -43,7 +43,11 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
     ---
     [motor de jogos 2D e 3D em Lua + Love 2D](https://github.com/UnidadePhantom/GameMotor-em-Lua-Love2D.git)
     
-    ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+    ![Love2D](https://img.shields.io/badge/Game%20Engine-Love2D-purple?logo=lua) ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+    ---
+    [Automação em Node.js para whatsapp](https://github.com/UnidadePhantom/Automacao-de-Whatsapp.git)
+
+    ![Node.js](https://img.shields.io/badge/Automação-Node.js-green?logo=node.js) ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
     ---
 - **Negócios independentes:** iniciativas próprias que demonstram criatividade e autonomia.  
   - Empresa de Tecnologia Tangencial Tecno_Boreal
