@@ -16,6 +16,16 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
 
 ## 🛠️ Habilidades Técnicas
 - **Linguagens:** Java, JavaScript, Node.js, Lua, C#, Python (apesar de não gostar, conheço bem), Golang, PHP.
+
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Lua](https://img.shields.io/badge/Lua-blue?logo=lua)
+![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Go](https://img.shields.io/badge/Go-lightblue?logo=go)
+![PHP](https://img.shields.io/badge/PHP-darkblue?logo=php)
+
 - **Áreas de interesse:**  
   - Estruturas de software e arquiteturas digitais  
   - Desenvolvimento web e aplicações  
@@ -28,7 +38,6 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
 - **Análise de sites e aplicações:** estudos sobre como páginas e sistemas são estruturados.  
 - **Scripts em Lua e Node.js:** automações e experimentos práticos.  
 - **Negócios independentes:** iniciativas próprias que demonstram criatividade e autonomia.  
-- **Voluntariado:** participação em ONGs e projetos sociais, aplicando tecnologia e organização.
 
 ---
 
