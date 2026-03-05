@@ -1,4 +1,6 @@
+
 # Portfólio de Engenharia de Sistemas Digitais
+![Portfólio](https://img.shields.io/badge/Portfólio-Engenharia%20de%20Sistemas%20Digitais-blue)
 
 Bem-vindo ao meu portfólio!  
 Sou Emanuel (UnidadePhantom), autodidata apaixonado por **arquiteturas digitais** e pelo estudo de como sistemas funcionam por dentro — sejam sites, jogos ou aplicativos.  
@@ -36,9 +38,19 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
 
 ## 📂 Projetos
 - **Análise de sites e aplicações:** estudos sobre como páginas e sistemas são estruturados.  
-- **Scripts em Lua e Node.js:** automações e experimentos práticos.  
+- **Scripts em Lua e Node.js:** automações e experimentos práticos. 
+  - Experimentos práticos
+    ---
+    [motor de jogos 2D e 3D em Lua + Love 2D](https://github.com/UnidadePhantom/GameMotor-em-Lua-Love2D.git)
+    
+    ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+    ---
 - **Negócios independentes:** iniciativas próprias que demonstram criatividade e autonomia.  
-
+  - Empresa de Tecnologia Tangencial Tecno_Boreal
+    
+    ![Status](https://img.shields.io/badge/status-em%20suspensão%20sabática-red)
+    
+    para estudos de engenharia comercial, engenharia de vendas e autenticação de CNPJ
 ---
 
 ## ⚠️ Aviso Importante
