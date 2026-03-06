@@ -1,6 +1,6 @@
 
-# Portfólio de Engenharia de Sistemas Digitais
-![Portfólio](https://img.shields.io/badge/Portfólio-Engenharia%20de%20Sistemas%20Digitais-blue)
+# Portfólio de estudo de desenvolvimento de software
+![Portfólio](https://img.shields.io/badge/Portfólio-Desenvolvimento%20de%20Software-blue)
 
 Bem-vindo ao meu portfólio!  
 Sou Emanuel (UnidadePhantom), autodidata apaixonado por **arquiteturas digitais** e pelo estudo de como sistemas funcionam por dentro — sejam sites, jogos ou aplicativos.  
@@ -11,7 +11,7 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
 ---
 
 ## 🎯 Sobre mim
-- Estudante autodidata de **engenharia de sistemas digitais**.
+- Estudante autodidata de **Desenvolvimento de software**.
 - Experiência prática em análise estrutural de software e aplicações.
 - Atuação em projetos independentes e negócios próprios.
 - Aprendizado por **semelhança síncrona**: estudo padrões entre linguagens e tecnologias para evoluir rapidamente.
@@ -19,17 +19,6 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
 ---
 
 ## 🛠️ Habilidades Técnicas
-- **Linguagens:** Java, JavaScript, Node.js, Lua, C#, Python (apesar de não gostar, conheço bem), Golang, PHP.
-
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Lua](https://img.shields.io/badge/Lua-blue?logo=lua)
-![C#](https://img.shields.io/badge/C%23-purple?logo=csharp)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Go](https://img.shields.io/badge/Go-lightblue?logo=go)
-![PHP](https://img.shields.io/badge/PHP-darkblue?logo=php)
-
 - **Áreas de interesse:**  
   - Estruturas de software e arquiteturas digitais  
   - Desenvolvimento web e aplicações  
@@ -38,9 +27,15 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
 
 - **Linguagens forte:**
   - ![Java](https://img.shields.io/badge/Java-orange?logo=java)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
   - ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
   - ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua)
 
+- **Linguagens adicionais:**
+  - ![C#](https://img.shields.io/badge/C%23-purple?logo=csharp) 
+  - ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+  - ![Go](https://img.shields.io/badge/Go-lightblue?logo=go) 
+  - ![PHP](https://img.shields.io/badge/PHP-darkblue?logo=php)
 
 ---
 
@@ -53,7 +48,7 @@ Aqui você encontrará projetos, estudos e experimentos que refletem minha curio
   - ![Conexão Warp](https://img.shields.io/badge/Warp-Http%20Http2-green?logo=cloudflare)
   
 - **Scripts em Lua e Node.js:** automações e experimentos práticos. 
-  - Exempláres de experimentos práticos
+  - Exemplares de experimentos práticos
     ---
     [motor de jogos 2D e 3D em Lua + Love 2D](https://github.com/UnidadePhantom/GameMotor-em-Lua-Love2D.git)
     
